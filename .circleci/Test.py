@@ -1,4 +1,4 @@
-from Main1 import add 
+from Main1 import Add 
 
 def testadd():
   assert Add(3,4)==7
